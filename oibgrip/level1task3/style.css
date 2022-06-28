@@ -1,0 +1,58 @@
+#grad1 {
+    height:100%;
+    background-image:url('image/tempreture.jpg');
+    
+  }
+.container{
+    /*background-image:linear-gradient(to right, rgba(248, 226, 26, 0.986), rgb(245, 123, 41),rgb(255, 115, 0),rgb(247, 255, 133));;
+   */
+   background-image:url(image/2.jpg);
+    width: 450px;
+    border-radius: 30px;
+    border-style: outset;
+
+    height: 320px;
+    margin-left: 500px;
+    margin-top: 127px;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    background-image:url(image/2.jpg);
+    padding: 60px;
+}
+h1{
+    padding-left: 515px;
+}
+.m1{
+    margin: 10px;
+}
+input{
+    padding: 5px;
+    width: 160px; 
+}
+.flex{
+    display: flex;
+}
+#s{
+    width: 91px;
+height: 32px;
+margin-top: 68px;
+margin-left: 16px;
+
+}
+#k1{
+        margin-left: 103px;
+        margin-top: 30px;
+        padding: 11px;
+}
+.m3{
+    margin: 10px;
+}
+li{
+    display: flex;
+} 
+
